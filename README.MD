@@ -1,0 +1,1 @@
+Repositório com os projetos realizados no curso da QA Academy
